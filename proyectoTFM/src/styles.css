@@ -1,0 +1,66 @@
+#logo{
+
+    height: auto;
+
+}
+
+
+.divPrincipal{
+
+    width: 100%;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    
+
+    
+  }
+
+
+
+  .menu ul {
+    text-align: center;
+    background-color: #2196f3;
+ 
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+  .menu a {
+      
+    display: block;
+    padding: 3em;
+    text-decoration: none;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+  }
+  .menu  a:hover {
+    background-color:lightsteelblue;
+  }
+  .menu ul li ul {
+      
+    display: none;
+  }
+  .menu ul li a:hover + ul, .menu ul li ul:hover {
+
+    display: block;
+  }
+  
+  
+.footer{
+
+    position: absolute;
+    bottom: -50px;
+    width: 100%;
+    background-color:#2196f3;
+  
+}
+
+
+.autor{
+
+    text-align: center;
+}

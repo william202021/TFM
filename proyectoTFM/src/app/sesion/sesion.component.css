@@ -1,0 +1,28 @@
+.form-invent {
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;  
+    margin: 3%;
+    padding: auto;
+
+   
+
+  }
+
+  input,textarea, button,h4,table, input:active, input:focus, input:focus-within, input:hover, input:visited {
+    font-size: 18px!important;
+  }
+
+  .form-control { 
+    
+    min-width: 200px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    border: 1px solid #000;
+    font-size: 18px;
+    text-align: center;
+   
+  }
