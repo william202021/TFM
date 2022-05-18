@@ -92,7 +92,7 @@ section{
       left:0;
   }
   
-  .col1,.col2{
+  #verde,#naranja{
     display:inline-table;
     margin: 2em;
     
