@@ -91,6 +91,12 @@ section{
   #check:checked ~ ul{
       left:0;
   }
+  
+  .col1,.col2{
+    display:inline-table;
+    margin: 2em;
+    
+  }
 
 
 }
